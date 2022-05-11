@@ -21,7 +21,3 @@ github:
     addComment: false
     # add a "Review in Gitpod" button to the pull request's description (defaults to false)
     addBadge: true
-
-vscode:
-  extensions:
-    - DCsunset.vscode-modal-editor
